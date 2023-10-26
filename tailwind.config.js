@@ -7,5 +7,7 @@ export default {
   plugins: [require("daisyui")],
   daisyui: {
     themes: ["light", "dark"],
+    // ekhane and navbar e daisyui er "dracula" theme ta "dark" theme er bodol e use korle
+    // text white asbe
   },
 };
